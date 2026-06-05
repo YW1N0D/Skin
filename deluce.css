@@ -1,13 +1,13 @@
 @font-face {
-font-family: "Deluce";
-font-weight:400;
-src: url('//dl.dropbox.com/s/jsszh9i32z82a1w/Deluce.ttf');
-format("truetype");
+  font-family: "Deluce";
+  font-weight: 400;
+  font-style: normal;
+  src: url("https://cdn.jsdelivr.net/gh/YW1N0D/Skin@main/Deluce.ttf") format("truetype");
 }
+
 @font-face {
-font-family: "Deluce";
-font-weight:400;
-font-style:italic;
-src: url('//dl.dropbox.com/s/ffmkfvnbk600ah8/Deluce%20Italic.ttf');
-format("truetype");
+  font-family: "Deluce";
+  font-weight: 400;
+  font-style: italic;
+  src: url("https://cdn.jsdelivr.net/gh/YW1N0D/Skin@main/Deluce-Italic.ttf") format("truetype");
 }
